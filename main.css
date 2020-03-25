@@ -54,6 +54,7 @@ body {
   text-align: center;
   padding-top: 10px;
   grid-area: nav-items;
+  font-size: 18px;
 }
 .main-wrapper {
   max-width: 1200px;
