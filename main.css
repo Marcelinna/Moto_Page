@@ -351,6 +351,11 @@ footer h4 {
     font-size: 17px;
   }
 
+  .nav-wrapper a {
+    letter-spacing: 0.1em;
+    
+  }
+
   .logo {
     grid-column: 1/5;
     text-align: center;
