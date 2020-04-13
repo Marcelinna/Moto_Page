@@ -417,7 +417,8 @@ footer h4 {
   }
   .nav-wrapper ul li {
     display: block;
-    margin-bottom: 7px;
+    padding-top:13px;
+    padding-bottom: 13px;
   }
   .burger-icon {
     display: inline-block;
