@@ -116,6 +116,8 @@ body {
   grid-template-columns: 1fr;
   grid-gap: 10px;
   min-height: 500px;
+  
+
 }
 
 .sub1 {
@@ -170,6 +172,7 @@ body {
   grid-area: contentMain;
   background-color: #ffffff;
   line-height: 1.5em;
+  text-align: justify;
 }
 
 p {
@@ -183,6 +186,7 @@ p {
   grid-template-rows: 1fr 1fr;
   line-height: 1.5em;
   border-radius: 5px;
+  text-align: justify;
 }
 
 .sidebar h3 {
